@@ -12,4 +12,4 @@
   The only good thing the did on android is ADB and Fastboot.
   Alright class, today we learned google = doom and gloom.
   Thanks for reading.
-  https://minibooga.github.io/Tech-with-Minibooga/docs/intro.md
+  [Homepage](https://minibooga.github.io/Tech-with-Minibooga/docs/intro.md)

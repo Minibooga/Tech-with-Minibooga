@@ -1,14 +1,14 @@
 h1 {
-  align: center
+  text-align: center
   color: blue
 }
 ul {
-  align: center
+  text-align: center
   color: yellow
 }
 head {
-  background: navy
+  background: #0b0040
 }
 body {
-  background: navy
+  background: #0b0040
 }
